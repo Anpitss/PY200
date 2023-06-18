@@ -1,0 +1,6 @@
+.idea
+venv
+__init__.py
+*.yaml
+*.png
+output.txt
